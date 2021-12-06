@@ -19,8 +19,7 @@ public class Search_CMD extends Command{
 
     @Override
     public void execute(CommandSender sender, String[] args) {
-        if(sender instanceof ProxiedPlayer) {
-            ProxiedPlayer p = (ProxiedPlayer) sender;
+        if(sender instanceof ProxiedPlayer p) {
             if(p.hasPermission("player")) {
                 if(args.length == 0) {
                     p.sendMessage("Bitte benutze /search [Player]");
