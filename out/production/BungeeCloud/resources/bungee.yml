@@ -1,0 +1,4 @@
+name: Bungeecloud
+version: ${project.version}
+main: at.gotzi.bungeecloud.Main
+description: BungeeCloud

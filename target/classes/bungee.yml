@@ -1,0 +1,5 @@
+name: Bungeecloud
+author: "Gotzi"
+version: "1.0"
+main: at.gotzi.bungeecloud.BungeeCloud
+description: BungeeCloud
