@@ -1,2 +1,2 @@
-# BungeeCloud
+# Minecraft BungeeCloud
 not finished
